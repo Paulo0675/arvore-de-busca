@@ -1,1 +1,11 @@
 # arvore-de-busca
+Integrantes do Projeto:
+- Paulo Fernandes Pinheiro Neto
+- Bruno Hebert
+- Caio Vasconcelos
+- Caio Justino
+- Caio Kleivson
+- Marllon Brenno
+
+Link do Repositório:
+https://github.com/Paulo0675/arvore-de-busca
